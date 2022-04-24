@@ -17,5 +17,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My main research areas are household finance, real estate economics, and behavioral economics. I study how individuals and households make consumption and savings decisions, and how they utilize financial instruments such as retirement savings accounts, mortgages, and other credit products. I study how behavioral frictions impact how households utilize these products and the implications for welfare and for policy design.
+My research areas are household finance, real estate economics, and behavioral economics. I study how individuals and households make consumption and savings decisions, and how they utilize financial instruments such as retirement savings accounts, mortgages, and other credit products. I study how behavioral frictions impact how households utilize these products and the implications for welfare and for policy design.
 
