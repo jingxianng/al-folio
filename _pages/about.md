@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in Applied Economics at The Wharton School, University of Pennsylvania.
 
 profile:
   align: right
@@ -12,10 +12,14 @@ profile:
     <p>Vance Hall, 3733 Spruce Street</p>
     <p>Philadelphia PA 19104</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+My main research areas are household finance, real estate economics, and behavioral economics. I study how individuals and households make consumption and savings decisions, and how they utilize financial instruments such as retirement savings accounts, mortgages, and other credit products. I study how behavioral frictions impact how households utilize these products and the implications for welfare and for policy design.
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

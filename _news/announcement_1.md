@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-22 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I was awarded a [NBER Dissertation Fellowship on Consumer Financial Management](https://www.nber.org/programs-projects/projects-and-centers/8157-graduate-student-fellowships-consumer-financial-management)
+
