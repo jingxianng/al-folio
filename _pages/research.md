@@ -8,7 +8,8 @@ horizontal: false
 ---
 
 <!-- pages/research.md -->
-#Work In Progress  
+
+# Work In Progress  
 
 **Credit When You Need It**
 *With Benjamin Collier, Benjamin Keys, and Daniel Hartley*
