@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: PhD student in Applied Economics at The Wharton School, University of Pennsylvania.
