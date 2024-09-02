@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in Applied Economics at The Wharton School, University of Pennsylvania.
+subtitle: PhD Candidate in Applied Economics at The Wharton School, University of Pennsylvania.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
     <p>Suite 419</p>
-    <p>Vance Hall, 3733 Spruce Street</p>
+    <p>Dinan Hall, 3733 Spruce Street</p>
     <p>Philadelphia PA 19104</p>
 
 news: true  # includes a list of news items
